@@ -1,0 +1,17 @@
+# Core packages
+requests
+beautifulsoup4
+firecrawl-py
+google-generativeai
+python-dotenv
+pandas
+
+# Search alternatives
+duckduckgo-search
+
+# Optional: For SerpAPI (paid service)
+google-search-results
+
+# Optional: For Selenium method
+selenium
+webdriver-manager
